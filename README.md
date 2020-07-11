@@ -16,6 +16,8 @@ These are the study materials available in the Data Science Course offered by IB
 
 6.) Data Analysis with Python
 
-7.) Machine Learning with Python
+7.) Data Visualization with Python
 
-8.) Applied Data Science Capstone
+8.) Machine Learning with Python
+
+9.) Applied Data Science Capstone
