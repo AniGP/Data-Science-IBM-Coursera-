@@ -6,7 +6,7 @@ These are the study materials available in the Data Science Course offered by IB
 
 1.) What is Data Science ?
 
-2.) Tool for Data Science
+2.) Tools for Data Science
 
 3.) Data Science Methodology
 
