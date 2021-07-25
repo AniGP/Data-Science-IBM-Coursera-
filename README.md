@@ -1,4 +1,4 @@
-# Data-Science-IBM-Coursera
+# IBM Data Science
 
 These are the study materials available in the Data Science Course offered by IBM on Coursera.
 
